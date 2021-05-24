@@ -16,5 +16,7 @@ Example:
 > make coverage  # Generate a coverage report.
 > make doc       # Generate html documentation.
 ```
+///////////////////////////////////////////////////////////
 
-
+-brak dokumentacji
+- ułożenie plików lub folderów może w minimalnym stopniu różnić się od orginalnego repozytorium z github zad.4, ponieważ pracowałem na repozytorium zad.3 przerabiając i edytując rotacje 2d
